@@ -12,4 +12,4 @@ Minimal checklist to keep wallets and contracts safe.
 - Track wallet activity via https://basescan.org
 - Maintain separate dev and storage accounts
 
-_Last updated: 2025-10-20_
+_Last updated: 2025-10-21_
