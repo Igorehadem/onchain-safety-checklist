@@ -7,3 +7,6 @@
 - Revoke permissions regularly via revoke.cash.  
 - Double-check addresses — watch for phishing look-alikes.  
 - Enable passphrases / 2FA wherever possible.
+## Responsible Disclosure
+If you find a vulnerability, please report it via email.
+Do not publicly disclose details until a fix has been released.
