@@ -45,19 +45,15 @@ contract ExampleSafe {
 
 ---
 
+---
 
-# 🧰 Tools
+## 🧰 Tools
 
-[Slither]([url](https://github.com/crytic/slither))
- — static analysis
+- [Slither](https://github.com/crytic/slither) — static analysis  
+- [MythX](https://mythx.io) — symbolic execution  
+- [Foundry](https://book.getfoundry.sh/) — fuzz & invariant testing  
+- [Sourcify](https://sourcify.dev/) — contract verification
 
-[MythX]([url](https://mythx.io/))
- — symbolic execution
+---
 
-[Foundry]([url](https://book.getfoundry.sh/))
- — fuzz & invariant testing
-
-[Sourcify]([url](https://sourcify.dev/))
- — contract verification
-
- Last updated: 2025-11-04
+_Last updated: 2025-11-04_
