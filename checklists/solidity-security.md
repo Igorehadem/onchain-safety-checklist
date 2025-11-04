@@ -42,10 +42,8 @@ contract ExampleSafe {
         require(ok, "Transfer failed");
     }
 }
+```
 
----
-
----
 
 ## 🧰 Tools
 
