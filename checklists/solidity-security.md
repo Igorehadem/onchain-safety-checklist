@@ -48,16 +48,16 @@ contract ExampleSafe {
 
 # 🧰 Tools
 
-Slither
+[Slither]([url](https://github.com/crytic/slither))
  — static analysis
 
-MythX
+[MythX]([url](https://mythx.io/))
  — symbolic execution
 
-Foundry
+[Foundry]([url](https://book.getfoundry.sh/))
  — fuzz & invariant testing
 
-Sourcify
+[Sourcify]([url](https://sourcify.dev/))
  — contract verification
 
  Last updated: 2025-11-04
