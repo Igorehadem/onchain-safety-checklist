@@ -1,6 +1,6 @@
 # Onchain Safety Checklist 🛡️
 
-Minimal checklist to keep wallets and contracts safe — now expanded with **developer checklists** and **example code**.
+Minimal checklist to keep wallets and contracts safe — now includes **developer checklists** and **Solidity examples**.
 
 ---
 
@@ -20,13 +20,22 @@ Minimal checklist to keep wallets and contracts safe — now expanded with **dev
 
 ---
 
-## 📘 New Sections
-| 📄 File | 🧩 Purpose |
-|----------|-------------|
-| [`SECURITY.md`](./SECURITY.md) | Wallet and disclosure practices |
+## 📘 Repository Contents
+
+| 📄 File | 🧩 Description |
+|----------|----------------|
+| [`SECURITY.md`](./SECURITY.md) | Wallet safety & responsible disclosure |
 | [`checklist.md`](./checklist.md) | Smart contract verification rules |
-| [`examples/`](./examples) | Solidity safety snippets *(coming next)* |
-| [`checklists/`](./checklists) | Themed security lists *(in progress)* |
+| [`checklists/solidity-security.md`](./checklists/solidity-security.md) | 10 rules for Solidity safety |
+| [`examples/SafeTransfer.sol`](./examples/SafeTransfer.sol) | Minimal safe ERC20 transfer contract |
+
+---
+
+## 🧠 Why it exists
+> “Not everything needs an audit — but everything needs discipline.”
+
+A living notebook to consolidate onchain safety patterns  
+for **Base** and **Farcaster** builders.
 
 ---
 
