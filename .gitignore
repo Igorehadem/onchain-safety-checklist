@@ -1,0 +1,18 @@
+# Node
+node_modules/
+.env
+dist/
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+*.log
+
+# Docs / Output
+*.pdf
+*.docx
+*.tmp
